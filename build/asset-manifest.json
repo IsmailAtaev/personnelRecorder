@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93f4e3e4.css",
+    "main.js": "/static/js/main.5b4ba858.js",
+    "static/media/Logo.png": "/static/media/Logo.cea7c4b45c90e5f971ec.png",
+    "static/media/edit.svg": "/static/media/edit.c2a53e835797097f548cf679edd1d05b.svg",
+    "static/media/view.svg": "/static/media/view.51a5ccd2f249d8ae70a7be4a765fff87.svg",
+    "static/media/send.svg": "/static/media/send.5b45f5530389766486d996468f1eff9a.svg",
+    "static/media/deleteIcon.svg": "/static/media/deleteIcon.301b654ad36c801ae4218f9f581283ef.svg",
+    "index.html": "/index.html",
+    "static/media/add.svg": "/static/media/add.327a71165d60022f12929c69999009ee.svg",
+    "static/media/addFile.svg": "/static/media/addFile.9dd9d4949a940e8551e485e50ba85ecf.svg",
+    "static/media/user.svg": "/static/media/user.077781174fa9863df51f828d8de8fdb8.svg",
+    "static/media/endWorkTime.svg": "/static/media/endWorkTime.602601f46f59b0134b3c9b2d5c0f7bbb.svg",
+    "static/media/startTimeWork.svg": "/static/media/startTimeWork.6af9ea13da0c7e9a8d9bb347cbe1a5ee.svg",
+    "main.93f4e3e4.css.map": "/static/css/main.93f4e3e4.css.map",
+    "main.5b4ba858.js.map": "/static/js/main.5b4ba858.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f4e3e4.css",
+    "static/js/main.5b4ba858.js"
+  ]
+}
